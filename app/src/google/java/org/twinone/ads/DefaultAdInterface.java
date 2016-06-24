@@ -1,6 +1,6 @@
-package org.twinone.ads;
+package org.chowen.ads;
 
-import org.twinone.ads.BaseAdDetails;
+import org.chowen.ads.BaseAdDetails;
 
 public class DefaultAdInterface extends BaseAdDetails {
 
